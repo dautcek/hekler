@@ -1,0 +1,1 @@
+dodavanje so git branch, push branch, i dodavanje nov txt file so touch;
